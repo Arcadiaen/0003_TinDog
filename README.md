@@ -1,2 +1,1 @@
-# 0003_TinDog
-Bootstrap, advanced CSS and HTML
+TinDog Starting Files
